@@ -1,7 +1,7 @@
 ## Array
 
- 1. [remove duplicates from sorted array I](./cpp/Array/RemoveDuplicates1.cpp)
- 2. [remove duplicates from sorted array II](./cpp/Array/RemoveDuplicates2.cpp)
+ 1. [remove duplicates from sorted array 1](./cpp/Array/RemoveDuplicates1.cpp)
+ 2. [remove duplicates from sorted array 2](./cpp/Array/RemoveDuplicates2.cpp)
  3. [longest consecutive sequence](./cpp/Array/LongestSequence.cpp)
  4. [two sum](./cpp/Array/TwoSum.cpp)
  5. [three sum](./cpp/Array/ThreeSum.cpp)
@@ -21,13 +21,17 @@
 19. [candy](./cpp/Array/Candy.cpp)
 20. [majority element](./cpp/Array/MajorityElement.cpp)
 21. [rotate array](./cpp/Array/RotateArray.cpp)
-22. [contains duplicate1](./cpp/Array/ContainsDuplicate1.cpp)
-23. [contains duplicate2](./cpp/Array/ContainsDuplicate2.cpp)
-24. [contains duplicate3](./cpp/Array/ContainsDuplicate3.cpp)
+22. [contains duplicate 1](./cpp/Array/ContainsDuplicate1.cpp)
+23. [contains duplicate 2](./cpp/Array/ContainsDuplicate2.cpp)
+24. [contains duplicate 3](./cpp/Array/ContainsDuplicate3.cpp)
 25. [product of array except self](./cpp/Array/ProductOfArrayExceptSelf.cpp)
 26. [game of life](./cpp/Array/GameOfLife.cpp)
 27. [increasing triplet subsequence](./cpp/Array/IncreasingTripletSubsequence.cpp)
 
-## Linked List
+## Singly Linked List
 
-1. [reverse linked list](./cpp/LinkedList/ReverseLinkedList.cpp)
+ 1. [reverse linked list 1](./cpp/LinkedList/ReverseLinkedList1.cpp)
+ 2. [odd even linked list](./cpp/LinkedList/OddEvenLinkedList.cpp)
+ 3. [add two numbers](./cpp/LinkedList/AddTwoNumbers.cpp)
+ 4. [reverse linked list 2](./cpp/LinkedList/ReverseLinkedList2.cpp)
+ 5. [partition list](./cpp/LinkedList/PartitionList.cpp)

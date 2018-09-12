@@ -2,3 +2,4 @@
 %cpp -std=c++17
 
 # include
+-I./
