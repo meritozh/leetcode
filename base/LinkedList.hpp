@@ -19,6 +19,9 @@ public:
     std::vector<int> R;
 
     Node *Current = Root;
+    if (Current == nullptr) {
+      return R;
+    }
     R.push_back(Current->GetValue());
     while (Current->Next != nullptr) {
       Current = Current->Next;
@@ -41,8 +44,13 @@ public:
     return Root;
   }
 
-  static Node* GenerateLinkedList(int Length, std::vector<int> Inits) {
-    assert(Length <= Inits.size());
+  static Node* GenerateLinkedList(std::vector<int> Inits) {
+    int Length = Inits.size();
+
+    if (Length == 0) {
+      return nullptr;
+    }
+
     auto Iter = Inits.begin();
     Node* Root = new Node(*Iter++);
     Node* Current = Root;

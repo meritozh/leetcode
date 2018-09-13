@@ -35,3 +35,8 @@
  3. [add two numbers](./cpp/LinkedList/AddTwoNumbers.cpp)
  4. [reverse linked list 2](./cpp/LinkedList/ReverseLinkedList2.cpp)
  5. [partition list](./cpp/LinkedList/PartitionList.cpp)
+ 6. [remove duplicates from sorted list 1](./cpp/LinkedList/RemoveDuplicatesFromSortedList1.cpp)
+ 7. [remove duplicates from sorted list 2](./cpp/LinkedList/RemoveDuplicatesFromSortedList2.cpp)
+ 8. [rotate list](./cpp/LinkedList/RotateList.cpp)
+ 9. [remove nth node from end of list](./cpp/LinkedList/RemoveNthNodeFromEndOfList.cpp)
+10. [swap nodes in pairs](./cpp/LinkedList/SwapNodesInPairs.cpp)

@@ -39,8 +39,8 @@ public:
 };
 
 int main() {
-  Node* List1 = LinkedList::GenerateLinkedList(3, {2, 4, 3});
-  Node* List2 = LinkedList::GenerateLinkedList(3, {5, 6, 4});
+  Node* List1 = LinkedList::GenerateLinkedList({2, 4, 3});
+  Node* List2 = LinkedList::GenerateLinkedList({5, 6, 4});
 
   auto L = Solution().AddTwoNumbers(List1, List2);
   auto R = LinkedList::AllValues(L);
